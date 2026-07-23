@@ -1,0 +1,13 @@
+.darkb{
+    background-color: black;
+    color:white
+}
+
+#bt2{
+    height: 20px;
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity: 0.6;
+}
